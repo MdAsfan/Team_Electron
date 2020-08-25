@@ -1,0 +1,2 @@
+Hi my name is asfan
+thi is a local git repository
